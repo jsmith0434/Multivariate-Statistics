@@ -1,2 +1,2 @@
 Statistics/* linguist-documentation
-Statistics/loomis/loomis.html -linguist-language=R
+*.html -linguist-language = R
