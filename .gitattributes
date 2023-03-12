@@ -1,4 +1,5 @@
-# Basic .gitattributes for a R repo.
+# Exclusions
+/loomis/loomis.html linguist-vendored
 
 # Source files
 # ============
