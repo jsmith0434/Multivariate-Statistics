@@ -1,4 +1,4 @@
-This is an abbreviated version of a larger multivariate statistics project conducted as part of a Data Science program at WSU.
+This is an abbreviated version of a larger multivariate statistics project.
 
 The file "final.measure.txt" contains the survey dataset. Any identifying information on the participants has been removed or encrypted.  
 
