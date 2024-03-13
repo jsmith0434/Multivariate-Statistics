@@ -10,6 +10,6 @@ This is an abridged version of an academic project that uses Principle Componmen
 
 "statistical_analysis_cancer_data.pdf" is the R Studio output.
 
-"data.csv" is the cancer data. 
+"data.csv" is the cancer data, but at >200MB it's too big to include here. 
 
 "labels.csv" contains the data labels. 
