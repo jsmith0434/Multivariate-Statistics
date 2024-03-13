@@ -1,6 +1,6 @@
 # Statistics - A repository for statistics projects.
 
-### 'Multivariate Statistical Modeling' 
+### 'Multivariate' 
 An exploration of a 20th century artist's idealized body proportions. A multivariate analysis of data containing measurements from ~300 volunteers is demonstrated using R.  
 
 ### 'Principal Components Analysis' 
